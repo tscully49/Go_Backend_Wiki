@@ -2,11 +2,13 @@
 A sample application using Go 
 
 ## To Run App
-1. Clone Repo to local machine
-2. `cd` into the repo
-3. run `./wiki.exe`
-4. go to "localhost:8080/view/test"
-5. Test out some URL's sampled below 
+---
+1. Install Go programming language (if you haven't already) [Here](https://golang.org/dl/)
+2. Clone Repo to local machine
+3. `cd` into the repo
+4. run `./wiki.exe`
+5. go to "localhost:8080/view/test"
+6. Test out some URL's sampled below 
 
 #### Sample URL's to try
 * http://localhost:8080/view/test
